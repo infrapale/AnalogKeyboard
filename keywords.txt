@@ -1,0 +1,24 @@
+#######################################
+# AKBD 3x4 analog keyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+akbd	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+akbd	KEYWORD2
+scan	KEYWORD2
+set_aval KEYWORD2
+rd_analog	KEYWORD2
+read	KEYWORD2
+begin	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+NBR_KEYS	LITERAL1
+KBD_PIN	LITERAL1
+KEY_TOL	LITERAL1
+KBD_DEB	LITERAL1
